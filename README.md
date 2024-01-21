@@ -1,4 +1,4 @@
-**Financial Analysis Script**
+**Financial Analysis Script - PyBank**
 
 Overview
 This Python script analyzes financial data from a CSV file (budget_data.csv) and calculates key financial metrics. The results are printed to the terminal and stored in a text file (financial_analysis.txt).
