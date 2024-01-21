@@ -16,3 +16,21 @@ Run the script (financial_analysis.py) to obtain the financial analysis results.
 Results Output
 Printed to the terminal.
 Stored in a text file (financial_analysis.txt) in the 'analysis' folder.
+
+
+# Election Analysis Script - PyPoll
+**Overview**
+This Python script analyzes election data from a CSV file (election_data.csv) and provides key insights into the election results. The analysis includes the total number of votes, individual candidate results, and identifies the winning candidate.
+
+**Key Metrics**
+1. Total Votes: Count of votes cast in the election.
+2. Individual Candidate Results: Percentage of votes and total votes for each candidate.
+3. Election Winner: The candidate with the most votes.
+
+**How to Use**
+Ensure that the CSV file (election_data.csv) is located in the 'Resources' folder.
+Run the script (election_analysis.py) to obtain the election analysis results.
+
+**Output**
+Results are printed to the terminal for immediate viewing.
+A detailed summary is saved to a text file (election_analysis.txt) in the 'analysis' folder for future reference.
